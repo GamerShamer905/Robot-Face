@@ -1,0 +1,74 @@
+img {
+    width: 50px;
+  }
+  #face {
+    width: 400px;
+  }
+  #eyes1 {
+    width: 200px;
+    position: absolute;
+    top: 150px;
+    left: 110px;
+  }
+  #mouth3 {
+    width: 120px;
+    position: absolute;
+    top: 285px;
+    left: 150px;
+  }
+  #nose2 {
+    width: 75px;
+    position: absolute;
+    top: 230px;
+    left: 165px;
+  }
+  #headphones {
+    width: 400px;
+    position: absolute;
+    top: -50px;
+    left: 11px;
+  }
+  #bird {
+    width: 120px;
+    position: absolute;
+    top: 5px;
+    left: 220px;
+    rotate: 8deg;
+  }
+  #face1 {
+    width: 400px;
+    position: absolute;
+    top: 500px;
+    left: 0px;
+}
+#eyes2 {
+    width: 200px;
+    position: absolute;
+    top: 630px;
+    left: 110px;
+  }
+  #mouth2 {
+    width: 120px;
+    position: absolute;
+    top: 800px;
+    left: 150px;
+  }
+  #nose1 {
+    width: 75px;
+    position: absolute;
+    top: 700px;
+    left: 165px;
+  }
+  #headphones1 {
+    width: 400px;
+    position: absolute;
+    top: 450px;
+    left: 0px;
+  }
+  #bird1 {
+    width: 120px;
+    position: absolute;
+    top: 495px;
+    left: 220px;
+    rotate: 15deg;
+  }
